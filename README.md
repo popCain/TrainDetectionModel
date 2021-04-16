@@ -21,7 +21,7 @@ Download the Google Object Detection API Library([Reference](https://github.com/
 You can download the pretrained detection model in google [`object detection zoo`](https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/tf1_detection_zoo.md)
 ## Modify the config file
 Different Model correspond to different cofig_file(In `"models/research/object_detection/samples/configs/"`)    
-*[Note]: Can not modify the parameter of **`val.record`**, you may need to download and  edit it locally with  correct path of test dataset.*     
+* *[Note]: Can not modify the parameter of **`val.record`**, you may need to download and  edit it locally with  correct path of test dataset.*     
 ## Begin training
 Spend different amounts of time according to the specified number of training steps      
 * *[Note]: Interruption of the connection with remote google GPU may occurred, dont't worry about it, we have saved the training processing file in the `training folder`, we can ignore the interruption and continue training from the breakpoint*
