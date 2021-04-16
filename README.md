@@ -5,4 +5,4 @@ Training Naruto characters detctor with Tensorflow Object Detection API using Go
   <img src="https://github.com/popCain/TrainDetectionModel/blob/main/image/result_2.png" width="290">
 </p>   
 
-## Prepare training data
+## 1. Prepare training data
