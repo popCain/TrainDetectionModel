@@ -10,3 +10,4 @@ You can use the ["RectLabel"](https://rectlabel.com/) to bulid your own training
 > Process Locally
   1. Get the XML_files(labels info) of each image 
   2. Convert XML_files to CSV file
+> Process on Google Colab
