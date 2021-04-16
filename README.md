@@ -6,8 +6,8 @@ Training Naruto characters detctor with Tensorflow Object Detection API using Go
 </p>   
 
 ## Prepare training data  
-You can use the [`RectLabel`](https://rectlabel.com/) to bulid your own training dataset easyly on MAC OS(No alternative found on windows).    
-Extract `[sub-dataset](https://github.com/popCain/getSubsetFromCOCO)` from COCO Dataset(Needed category only)
+* You can use the [`RectLabel`](https://rectlabel.com/) to bulid your own training dataset easyly on MAC OS(No alternative found on windows).    
+* Extract `[sub-dataset](https://github.com/popCain/getSubsetFromCOCO)` from COCO Dataset(Needed category only)
 > Process Locally
   1. Get the XML_files(labels info) of each image 
   2. Convert XML_files to CSV file
