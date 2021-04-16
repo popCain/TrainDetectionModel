@@ -27,8 +27,8 @@ Spend different amounts of time according to the specified number of training st
 *[Note]: Interruption of the connection with remote google GPU may occurred, dont't worry about it, we have saved the training processing file in the `training folder`, we can ignore the interruption and continue training from the breakpoint*
 ## Training result view from Tensorboard
 <p float = "left">
-  <img src="https://github.com/popCain/TrainDetectionModel/blob/main/image/loss.png" width="350">
-  <img src="https://github.com/popCain/TrainDetectionModel/blob/main/image/mAP.png" width="550">
+  <img src="https://github.com/popCain/TrainDetectionModel/blob/main/image/loss.png" width="320">
+  <img src="https://github.com/popCain/TrainDetectionModel/blob/main/image/mAP.png" width="520">
 </p>  
 
 ## Export the frozen graph based on training checkpoint
