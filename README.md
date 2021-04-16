@@ -16,3 +16,5 @@ You can use the [`RectLabel`](https://rectlabel.com/) to bulid your own training
 Using the `ObjectDetectionAPI_Training_Naruto.ipynb`(Please pay attention to the Path or folder name)
 ## Ⅲ Download the finetuning checkpoint(Here used MobilenetV3+SSDLite model)
 You can download the pretrained detection model in google [`object detection zoo`](https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/tf1_detection_zoo.md)
+## Ⅳ　Modify the config file
+Different Model correspond to different cofig_file(In `"models/research/object_detection/samples/configs/"`)
