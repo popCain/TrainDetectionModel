@@ -11,4 +11,8 @@ You can use the [`RectLabel`](https://rectlabel.com/) to bulid your own training
   1. Get the XML_files(labels info) of each image 
   2. Convert XML_files to CSV file
 > Process on Google Colab
-  3. Convert `image+CSV_file` to tfrecord(Binary file)
+  3. Convert `images+CSV_file` to tfrecord(Binary file)
+## 2. Upload to your google driven
+Using the `ObjectDetectionAPI_Training_Naruto.ipynb`(Please pay attention to the Path or folder name)
+## 3. Download the finetuning checkpoint(Here used MobilenetV3+SSDLite model)
+You can download the pretrained detection model in google [`object detection zoo`](https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/tf1_detection_zoo.md)
