@@ -28,7 +28,7 @@ Spend different amounts of time according to the specified number of training st
 <p float = "left">
   <img src="https://github.com/popCain/TrainDetectionModel/blob/main/image/loss.png" width="350">
   <img src="https://github.com/popCain/TrainDetectionModel/blob/main/image/mAP.png" width="550">
-</p> 
+</p>         
 ## Export the frozen graph based on training checkpoint
 Reference to my another repository([exportMobileNet_SSDSeries](https://github.com/popCain/exportMobileNet_SSDSeries))
 ## You can convert the exportd `Frozen graph` to the [CoreML data format](https://github.com/popCain/TFtoCoreML)
