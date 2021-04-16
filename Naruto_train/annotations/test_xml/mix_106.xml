@@ -1,0 +1,23 @@
+<annotation>
+    <folder>naruto_training</folder>
+    <filename>mix_106.jpg</filename>
+    <size>
+        <width>480</width>
+        <height>360</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>sasuke</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>34</xmin>
+            <ymin>33</ymin>
+            <xmax>326</xmax>
+            <ymax>293</ymax>
+        </bndbox>
+    </object>
+</annotation>

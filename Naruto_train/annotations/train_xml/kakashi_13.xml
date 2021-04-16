@@ -1,0 +1,23 @@
+<annotation>
+    <folder>naruto_training</folder>
+    <filename>kakashi_13.jpg</filename>
+    <size>
+        <width>957</width>
+        <height>533</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>kakashi</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>540</xmin>
+            <ymin>74</ymin>
+            <xmax>779</xmax>
+            <ymax>322</ymax>
+        </bndbox>
+    </object>
+</annotation>

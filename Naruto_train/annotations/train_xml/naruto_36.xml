@@ -1,0 +1,23 @@
+<annotation>
+    <folder>naruto_training</folder>
+    <filename>naruto_36.jpg</filename>
+    <size>
+        <width>890</width>
+        <height>501</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>naruto</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>504</xmin>
+            <ymin>62</ymin>
+            <xmax>704</xmax>
+            <ymax>261</ymax>
+        </bndbox>
+    </object>
+</annotation>

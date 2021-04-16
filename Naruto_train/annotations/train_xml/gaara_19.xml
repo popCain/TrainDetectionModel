@@ -1,0 +1,23 @@
+<annotation>
+    <folder>naruto_training</folder>
+    <filename>gaara_19.jpg</filename>
+    <size>
+        <width>604</width>
+        <height>453</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>gaara</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>72</xmin>
+            <ymin>3</ymin>
+            <xmax>529</xmax>
+            <ymax>381</ymax>
+        </bndbox>
+    </object>
+</annotation>

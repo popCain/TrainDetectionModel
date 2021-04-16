@@ -1,0 +1,36 @@
+<annotation>
+    <folder>naruto_training</folder>
+    <filename>mix_82.jpg</filename>
+    <size>
+        <width>720</width>
+        <height>533</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>gaara</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>149</xmin>
+            <ymin>237</ymin>
+            <xmax>292</xmax>
+            <ymax>409</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>naruto</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>444</xmin>
+            <ymin>48</ymin>
+            <xmax>649</xmax>
+            <ymax>270</ymax>
+        </bndbox>
+    </object>
+</annotation>

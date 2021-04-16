@@ -1,0 +1,23 @@
+<annotation>
+    <folder>gaara_train</folder>
+    <filename>gaara_14.jpeg</filename>
+    <size>
+        <width>650</width>
+        <height>650</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>gaara</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>119</xmin>
+            <ymin>156</ymin>
+            <xmax>552</xmax>
+            <ymax>557</ymax>
+        </bndbox>
+    </object>
+</annotation>

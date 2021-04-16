@@ -1,0 +1,24 @@
+item {
+    id: 1
+    name: 'gaara'
+}
+
+item {
+    id: 2
+    name: 'kakashi'
+}
+
+item {
+    id: 3
+    name: 'naruto'
+}
+
+item {
+    id: 4
+    name: 'sakura'
+}
+
+item {
+    id: 5
+    name: 'sasuke'
+}

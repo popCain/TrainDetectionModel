@@ -1,0 +1,23 @@
+<annotation>
+    <folder>naruto_training</folder>
+    <filename>mix_51.jpg</filename>
+    <size>
+        <width>633</width>
+        <height>450</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>sakura</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>196</xmin>
+            <ymin>10</ymin>
+            <xmax>398</xmax>
+            <ymax>326</ymax>
+        </bndbox>
+    </object>
+</annotation>

@@ -1,0 +1,36 @@
+<annotation>
+    <folder>naruto_training</folder>
+    <filename>kakashi_3.jpg</filename>
+    <size>
+        <width>797</width>
+        <height>448</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>naruto</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>428</xmin>
+            <ymin>78</ymin>
+            <xmax>618</xmax>
+            <ymax>306</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>kakashi</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>186</xmin>
+            <ymin>112</ymin>
+            <xmax>418</xmax>
+            <ymax>336</ymax>
+        </bndbox>
+    </object>
+</annotation>
