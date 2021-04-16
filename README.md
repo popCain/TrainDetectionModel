@@ -24,6 +24,11 @@ Different Model correspond to different cofig_file(In `"models/research/object_d
 ## Begin training
 Spend different amounts of time according to the specified number of training steps      
 *[Note]: Interruption of the connection with remote google GPU may occurred, dont't worry about it, we have saved the training processing file in the `training folder`, we can ignore the interruption and continue training from the breakpoint*
+## Training result view from Tensorboard
+<p　float="left">
+  <img src="https://github.com/popCain/TrainDetectionModel/blob/main/image/loss.png">
+  <img src="https://github.com/popCain/TrainDetectionModel/blob/main/image/mAP.png">
+</p>
 ## Export the frozen graph based on training checkpoint
 Reference to my another repository([exportMobileNet_SSDSeries](https://github.com/popCain/exportMobileNet_SSDSeries))
 ## You can convert the exportd `Frozen graph` to the [CoreML data format](https://github.com/popCain/TFtoCoreML)
