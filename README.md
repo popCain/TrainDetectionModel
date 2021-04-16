@@ -27,7 +27,7 @@ Spend different amounts of time according to the specified number of training st
 ## Training result view from Tensorboard
 <p float = "left">
   <img src="https://github.com/popCain/TrainDetectionModel/blob/main/image/loss.png" width="300">
-  <img src="https://github.com/popCain/TrainDetectionModel/blob/main/image/mAP.png" width="400">
+  <img src="https://github.com/popCain/TrainDetectionModel/blob/main/image/mAP.png" width="500">
 </p> 
 
 ## Export the frozen graph based on training checkpoint
