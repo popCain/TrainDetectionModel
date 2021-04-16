@@ -16,7 +16,7 @@ Training Naruto characters detctor with Tensorflow Object Detection API using Go
 ## Upload to your google driven
 Using the `ObjectDetectionAPI_Training_Naruto.ipynb`(Please pay attention to the Path or folder name)
 ## Configuring the development environment
-Download the Google Object Detection API Library(`models`).
+Download the Google Object Detection API Library([Reference](https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/tf1.md)).
 ## Download the finetuning checkpoint(Here used MobilenetV3+SSDLite model)
 You can download the pretrained detection model in google [`object detection zoo`](https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/tf1_detection_zoo.md)
 ## Modify the config file
