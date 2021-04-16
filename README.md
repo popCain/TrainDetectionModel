@@ -34,4 +34,4 @@ Spend different amounts of time according to the specified number of training st
 ## Export the frozen graph based on training checkpoint
 Reference to my another repository([exportMobileNet_SSDSeries](https://github.com/popCain/exportMobileNet_SSDSeries))
 ## You can convert the exportd `Frozen graph` to the [CoreML data format](https://github.com/popCain/TFtoCoreML)
-## Apply the model to your iOS APP([reference](https://github.com/popCain/ObjectDetection_iOS))
+## Apply the detector model to your iOS APP([reference](https://github.com/popCain/ObjectDetection_iOS))
