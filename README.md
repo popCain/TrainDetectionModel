@@ -24,7 +24,7 @@ Different Model correspond to different cofig_file(In `"models/research/object_d
 *[Note]: Can not modify the parameter of **`val.record`**, you may need to download and  edit it locally with  correct path of test dataset.*     
 ## Begin training
 Spend different amounts of time according to the specified number of training steps      
-*[Note]: Interruption of the connection with remote google GPU may occurred, dont't worry about it, we have saved the training processing file in the `training folder`, we can ignore the interruption and continue training from the breakpoint*
+* *[Note]: Interruption of the connection with remote google GPU may occurred, dont't worry about it, we have saved the training processing file in the `training folder`, we can ignore the interruption and continue training from the breakpoint*
 ## Training result view from Tensorboard
 <p float = "left">
   <img src="https://github.com/popCain/TrainDetectionModel/blob/main/image/loss.png" width="300">
