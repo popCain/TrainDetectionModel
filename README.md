@@ -19,5 +19,5 @@ Using the `ObjectDetectionAPI_Training_Naruto.ipynb`(Please pay attention to the
 Download the finetuning checkpoint(Here used MobilenetV3+SSDLite model)
 You can download the pretrained detection model in google [`object detection zoo`](https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/tf1_detection_zoo.md)
 ## Modify the config file
-Different Model correspond to different cofig_file(In `"models/research/object_detection/samples/configs/"`)
-*[Note]: Can not modify the parameter of **`val.record`**, 
+Different Model correspond to different cofig_file(In `"models/research/object_detection/samples/configs/"`)    
+*[Note]: Can not modify the parameter of **`val.record`**, you may need to download and  edit it locally with  correct path of test dataset.
