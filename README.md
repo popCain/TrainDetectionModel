@@ -12,7 +12,7 @@ Training Naruto characters detctor with Tensorflow Object Detection API using Go
   1. Get the XML_files(labels info) of each image 
   2. Convert XML_files to CSV file
 > Process on Google Colab
-  3. Convert `images+CSV_file` to tfrecord(Binary file)
+  3. Convert `images+CSV_file` to tfrecord(Binary File)
 ## Upload to your google driven
 Using the `ObjectDetectionAPI_Training_Naruto.ipynb`(Please pay attention to the Path or folder name)
 ## Configuring the development environment
